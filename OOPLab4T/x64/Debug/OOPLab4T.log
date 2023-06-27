@@ -1,0 +1,16 @@
+﻿  Lab4Exmaple.cpp
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(73,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(74,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(75,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(91,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(92,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(93,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(237,20): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(242,24): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(245,24): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(248,24): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(345,17): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  OOPLab4T.cpp
+  Создание кода...
+C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\OOPLab4T\Lab4Exmaple.cpp(405): warning C4715: AssocArray::get: значение возвращается не при всех путях выполнения
+  OOPLab4T.vcxproj -> C:\Users\Remixing\source\repos\lab4-OleksandrTryhubko\x64\Debug\OOPLab4T.exe
